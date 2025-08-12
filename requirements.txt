@@ -1,9 +1,9 @@
 # requirements.txt
 
-tensorflow>=2.11
+tensorflow
 numpy
 pillow
-streamlit>=1.26
+streamlit
 matplotlib
 scikit-learn
 opencv-python-headless
